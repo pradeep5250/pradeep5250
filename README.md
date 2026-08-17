@@ -26,17 +26,6 @@ I'm a Computer Science and Engineering student specializing in **Cyber Security*
 
 I enjoy exploring security concepts, building useful applications, learning new technologies, and continuously improving my development and cybersecurity skills.
 
----
-
-## 🎓 Education
-
-**B.E. Computer Science and Engineering (Cyber Security)**  
-Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam
-
-- 📚 Current Year: 2nd Year
-- 📊 CGPA: 7.9
-
----
 
 ## 🛡️ Cyber Security Skills
 
@@ -74,7 +63,7 @@ Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam
 
 ---
 
-## 🚀 Featured Projects
+## 🚀  Projects
 
 ### 🎣 Real-Time Phishing Detection System
 
