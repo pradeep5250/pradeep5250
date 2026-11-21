@@ -72,7 +72,7 @@ An enterprise-grade desktop Open-Source Intelligence application performing auto
 A voice-activated, offline-capable desktop artificial intelligence assistant featuring local LLM reasoning (Ollama), faster-whisper speech recognition, FAISS vector RAG memory, and deep Windows OS automation.
 - **Tech:** Faster-Whisper, Ollama LLM, FAISS Vector RAG, PyAutoGUI, FastAPI
 
-### 📞 [AI Phone Assistant (MintX Solutions)](https://github.com/pradeep5250/ai-phone-assistant)
+### 📞 [AI Phone Assistant](https://github.com/pradeep5250/ai-phone-assistant)
 An intelligent conversational voice assistant executive built for enterprise customer care with Tamil, Tanglish, and English multi-language detection, Sarvam.ai TTS, vector RAG, and Twilio telephony integration.
 - **Tech:** Python 3.12, FastAPI, Twilio, Sarvam TTS, OpenAI Realtime, MongoDB
 
