@@ -88,6 +88,10 @@ A high-performance 3D interactive e-commerce platform built with Three.js WebGL 
 A desktop enterprise hotel software application managing room availability, guest check-in/check-out, billing calculations, and SQL persistence via the DAO architecture.
 - **Tech:** Java (JDK 17+), Swing GUI, JDBC, DAO Pattern, MySQL
 
+### 📺 [TV UI Editor — Smart TV Minimalist Custom Launcher](https://github.com/pradeep5250/tv-ui-editor)
+An ultra-clean, ad-free custom TV launcher and interface management suite for Android TV and Fire TV devices. Strips bloat and background telemetry while providing instant HDMI and app switching.
+- **Tech:** Android TV Leanback, Shell/ADB, Java, Custom UI Optimization Engine
+
 ### 🌐 [Vulnerability Scanner](https://github.com/pradeep5250/VulnerScanner)
 An automated network reconnaissance tool detecting open ports, fingerprinting software versions, and checking HTTP security header compliance.
 - **Tech:** Flask, Python Sockets, HTML5/CSS3/JS • **[Live Demo](https://pradeep5250.github.io/VulnerScanner/)**
